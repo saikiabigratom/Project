@@ -1,2 +1,2 @@
-# Project
-mini project
+# Mini project
+A movie App
